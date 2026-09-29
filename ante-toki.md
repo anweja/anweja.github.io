@@ -45,7 +45,7 @@ kalama «Subterranean Homesick Alien» li tan kulupu Radiohead
 |lon sewi weka la jan mun li lukin|High above, the space-people watch|
 |li pilin musi tan jan ale ni:|and feel amused by all these people:|
 |jan ni li nasa, li len e kon insa|These people are strange, and hide their inner spirit,|
-|li wile wan taso, li ike e ona|and want to remain alone, and harm themselves|
+|li wile wan taso, li ike e ona|and want to be alone only, and harm themselves|
 | | |
 |ona li pilin ala|They don't feel|
 |ona li wile pilin ala|They want to not feel|
@@ -57,7 +57,7 @@ kalama «Subterranean Homesick Alien» li tan kulupu Radiohead
 | | |
 |mi pana e sona tawa jan ale poka|I'll give the knowledge to everyone close|
 |pilin ona la lawa mi li kama nasa|In their opinion, my head has gone crazy|
-|mi toki e mun, mi toki e lon|I'll speak of the stars, I'll speak of existence/truth/life|
+|mi toki e mun, mi toki e lon|I'll speak of the stars, I'll speak of life/truth/existence|
 |la o poki e mi, taso mi pona|So lock me up, but I'll be alright|
 |mi awen pona|I'll stay alright|
 | | |
@@ -88,7 +88,7 @@ kalama «Creep» li tan kulupu Radiohead
 | | |
 |mi wile ken lawa|I want to have control|
 |pilin pakala li suli ala|Hurt feelings are not important|
-|mi wile e selo pona|I want a good body|
+|mi wile e selo pona|I want a good skin/body|
 |mi wile e kon insa pona|I want a good soul|
 |wile mi la sina sona e mi|In my desires, you know about me|
 |li wile lon poka mi|and want to be close to me|
