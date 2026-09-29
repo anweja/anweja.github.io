@@ -10,8 +10,8 @@ kalama «Wandering Star» li tan kulupu Portishead
 | | |
 |o awen lon poka, o kute e mi|remain close, listen to me|
 |suno ni li suwi, la mi o pilin ala e ni:|this day is sweet, so I should not feel this:|
-|tenpo mi pi pilin pona li|my time of feeling good is|
-|lon tenpo pi moli mi|the time of my death|
+|tenpo mi pi pilin pona li|my time of feeling good will be|
+|lon tenpo pi moli mi|at the time of my death|
 |  |  |
 |mu tawa o,|o moving star,|
 |ni li tawa sina taso:|this is for you only:|
@@ -72,7 +72,7 @@ kalama «Creep» li tan kulupu Radiohead
 
 |tok|tok -> en|
 |--|--|
-|mi lon pona sina|When I am near you|
+|mi lon poka sina|When I am near you|
 |la mi pilin monsuta|I feel afraid|
 |sinpin sina li suwi|Your face is cute|
 |selo sina li sama|Your skin is the same|
