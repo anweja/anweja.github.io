@@ -21,6 +21,8 @@ kalama «Wandering Star» li tan kulupu Portishead
 |li awen sama ni: lon ona ale li weka|and remain like this: all their life is gone|
 |jan ike li len e wile ona|the bad people hide their intentions|
 |la ona li ken lawa e jan pona|so they can control good people|
+|  |  |
+|mu tawa o...|o moving star...|
 | | |
 |pakala insa|internal damage|
 |o kama lon poka, o pilin e mi|come close, feel me|
@@ -84,9 +86,9 @@ kalama «Creep» li tan kulupu Radiohead
 |tan semi la mi lon ni?|Why am I here?|
 |mi o lon ma ante|I should be in elsewhere|
 | | |
-|mi wile ken lawa|I want to be able to control|
+|mi wile ken lawa|I want to have control|
 |pilin pakala li suli ala|Hurt feelings are not important|
-|mi wile e selo pona|I want a good skin|
+|mi wile e selo pona|I want a good body|
 |mi wile e kon insa pona|I want a good soul|
 |wile mi la sina sona e mi|In my desires, you know about me|
 |li wile lon poka mi|and want to be close to me|
@@ -96,7 +98,7 @@ kalama «Creep» li tan kulupu Radiohead
 |taso mi jan ike...|But I'm a bad person...|
 | | |
 |ona li tawa wawa weka tan ni|They move quickly away from here|
-|ona li tawa wawa a|The run!|
+|ona li tawa wawa a|They run!|
 | | |
 |mi wile pona e pilin sina|I want to improve your feelings|
 |mi wile pali e wile sina|I want to do your bidding|
