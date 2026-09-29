@@ -27,6 +27,7 @@ kalama «Wandering Star» li tan kulupu Portishead
 |tenpo ale la, pakala insa|always, internal damage|
 |monsuta mute|much fear|
 
+<br>
 
 ## jan mun li pilin anpa
 
@@ -61,6 +62,47 @@ kalama «Subterranean Homesick Alien» li tan kulupu Radiohead
 |ona li pilin ala|They don't feel|
 |ona li wile pilin ala|They want to not feel|
 
+<br>
+
+## jan ike
+
+kalama «Creep» li tan kulupu Radiohead
+
+|tok|tok -> en|
+|--|--|
+|mi lon pona sina|When I am near you|
+|la mi pilin monsuta|I feel afraid|
+|sinpin sina li suwi|Your face is cute|
+|selo sina li sama|Your skin is the same|
+|sina tawa sama telo|You move like water|
+|lon ma suwi a|In a very sweet world|
+|sina jan pona|You're a good person|
+|mi wile jan pona|I want to be a good person|
+| | |
+|taso mi jan ike|But I'm a bad person|
+|mi jan nasa|I'm a strange person|
+|tan semi la mi lon ni?|Why am I here?|
+|mi o lon ma ante|I should be in elsewhere|
+| | |
+|mi wile ken lawa|I want to be able to control|
+|pilin pakala li suli ala|Hurt feelings are not important|
+|mi wile e selo pona|I want a good skin|
+|mi wile e kon insa pona|I want a good soul|
+|wile mi la sina sona e mi|In my desires, you know about me|
+|li wile lon poka mi|and want to be close to me|
+|mi wile jan pona|I want to be a good person|
+|sina jan pona|You're a good person|
+| | |
+|taso mi jan ike...|But I'm a bad person...|
+| | |
+|ona li tawa wawa weka tan ni|They move quickly away from here|
+|ona li tawa wawa a|The run!|
+| | |
+|mi wile pona e pilin sina|I want to improve your feelings|
+|mi wile pali e wile sina|I want to do your bidding|
+|sina jan pona|You're a good person|
+|mi wile jan pona|I want to be a good person|
+|mi wile jan pona|I want to be a good person|
 
 
 
